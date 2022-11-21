@@ -15,3 +15,4 @@ To complete this exercise you should
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
+My name is Nemo and i was born in Hargeisa. I'd love to live in Mecca, my favourite disney movie is Howl's Moving Castle. I get scared from dolls.
